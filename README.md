@@ -1,5 +1,7 @@
-Hi, I'm Hari 👋  
-Pre-final year B.Tech CSE (Cybersecurity & Blockchain)
+Hi, I'm Hari Ambani M👋  
+Intern at Infopercept Consulting Pvt Ltd 
+Final year B.Tech CSE (Cybersecurity & Blockchain)
+
 
 🚀 Skills:
 - MERN Stack (React, Node, Express, MongoDB)
