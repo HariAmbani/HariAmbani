@@ -10,6 +10,7 @@ Final year B.Tech CSE (Cybersecurity & Blockchain)
 - DSA & Algorithms
 
 📌 Highlights:
-- Solved XXX+ LeetCode problems
-- Built real-world IDS & firewall tools
-- Full-stack MERN projects with auth & dashboards
+- Solved 200+ LeetCode problems
+- Built real-world in Full-stack MERN with auth & dashboards
+- Wriiten Scripts to Automate Suricara Rule Collection in Pyhton 
+
