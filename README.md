@@ -6,8 +6,9 @@ Final year B.Tech CSE (Cybersecurity & Blockchain)
 🚀 Skills:
 - MERN Stack (React, Node, Express, MongoDB)
 - Python, Go, C++
+- Agentic AI (AG2, Langgraph)
+-  DSA & Algorithms
 - Cybersecurity: Suricata, IDS, Malware Detection
-- DSA & Algorithms
 
 📌 Highlights:
 - Solved 200+ LeetCode problems
