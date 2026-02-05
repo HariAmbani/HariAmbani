@@ -1,5 +1,5 @@
 Hi, I'm Hari Ambani M👋  
-Intern at Infopercept Consulting Pvt Ltd 
+MERN Fullstack Web Developer and AI Engineer Intern at Infopercept Consulting Pvt Ltd 
 Final year B.Tech CSE (Cybersecurity & Blockchain)
 
 
